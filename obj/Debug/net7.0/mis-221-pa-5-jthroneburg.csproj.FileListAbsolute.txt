@@ -1,0 +1,15 @@
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.csproj.AssemblyReference.cache
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.AssemblyInfoInputs.cache
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.AssemblyInfo.cs
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.csproj.CoreCompileInputs.cache
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\bin\Debug\net7.0\mis-221-pa-5-jthroneburg.exe
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\bin\Debug\net7.0\mis-221-pa-5-jthroneburg.deps.json
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\bin\Debug\net7.0\mis-221-pa-5-jthroneburg.runtimeconfig.json
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\bin\Debug\net7.0\mis-221-pa-5-jthroneburg.dll
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\bin\Debug\net7.0\mis-221-pa-5-jthroneburg.pdb
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.dll
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\refint\mis-221-pa-5-jthroneburg.dll
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.pdb
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\mis-221-pa-5-jthroneburg.genruntimeconfig.cache
+C:\Users\jdthr\221\pa5\mis-221-pa-5-jthroneburg\obj\Debug\net7.0\ref\mis-221-pa-5-jthroneburg.dll
